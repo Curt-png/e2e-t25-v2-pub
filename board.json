@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "columns": [
+    {
+      "name": "À faire",
+      "color": "--bone-faint",
+      "tasks": []
+    },
+    {
+      "name": "En cours",
+      "color": "--violet",
+      "tasks": []
+    },
+    {
+      "name": "Terminé",
+      "color": "--teal",
+      "isDoneColumn": true,
+      "tasks": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Dépendances & builds
+node_modules/
+dist/
+.next/
+target/
+tmp/
+*.log
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
+
+# Fichiers machine GAIA (jamais versionnés)
+.gaia/manifest.json
+.gaia/hook-telemetry/
+.gaia/questions/
+.gaia/attachments/
